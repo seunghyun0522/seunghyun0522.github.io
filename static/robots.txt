@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seunghyun0522.github.io/sitemap.xml
