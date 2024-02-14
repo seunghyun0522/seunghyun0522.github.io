@@ -38,6 +38,7 @@ const config = {
     [
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
+
       ({
         docs: {
           sidebarPath: "./sidebars.js",
@@ -56,6 +57,9 @@ const config = {
         theme: {
           customCss: "./src/css/custom.css",
         },
+        gtag: {
+          trackingID: "G-F3M8FP0MNG",
+        },
       }),
     ],
   ],
@@ -65,6 +69,13 @@ const config = {
     ({
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
+      metadata: [
+        {
+          //<meta name="google-site-verification" content="NrLc_sW9ajSI8FUF_6NbXcQ8SymVLCfXuIeDCB3JzN8" />
+          name: "google-site-verification",
+          content: "NrLc_sW9ajSI8FUF_6NbXcQ8SymVLCfXuIeDCB3JzN8",
+        },
+      ],
       navbar: {
         title: "My Site",
         logo: {
