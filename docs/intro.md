@@ -8,6 +8,12 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
+- [Tutorial Intro](#tutorial-intro)
+  - [Getting Started](#getting-started)
+    - [What you'll need](#what-youll-need)
+  - [Generate a new site](#generate-a-new-site)
+  - [Start your site](#start-your-site)
+
 Get started by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
